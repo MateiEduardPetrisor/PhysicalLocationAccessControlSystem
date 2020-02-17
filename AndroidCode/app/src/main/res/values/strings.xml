@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Android_Module</string>
+    <string name="btnViewMessagesText">View Events</string>
+    <string name="btnSendSmsText">Enable Ext Sensors</string>
+    <string name="btnSendSmsText2">Enable All Sensors</string>
+    <string name="disableSystem">Disable System</string>
+    <string name="permissionNotOk">Please Enable All Required Permissions</string>
+    <string name="ext">System On (Ext)</string>
+    <string name="all">System On (All)</string>
+    <string name="off">System Off</string>
+    <string name="btnClear">Clear Events</string>
+    <string name="btnCheckStatus">Check Status</string>
+    />
+</resources>
